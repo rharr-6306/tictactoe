@@ -10,6 +10,7 @@ TicTacToe game using React.js.
 Clone the repository & install required dependencies
 ```
 $ git clone git@github.com:Le-SirH/tictactoe.git
+$ npm install
 ```
 
 ### Development
