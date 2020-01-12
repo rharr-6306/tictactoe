@@ -1,0 +1,40 @@
+#board {
+    width: 50vh;
+    height: 50vh;
+    margin: 5% auto;
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    border: 3px solid white;
+    border-radius: 10px;
+    user-select: none;
+}
+
+.square {
+    color: rgb(200, 200, 200);
+}
+
+.square:hover {
+    animation: square-hover 0.25s forwards;
+    animation-timing-function: ease-out;
+}
+
+.fade-in {
+    animation: fade-in 1s forwards;
+}
+
+@keyframes square-hover {
+    to {
+        color: white;
+        transform: scale(1.5);
+    }
+}
+
+@keyframes fade-in {
+    from {
+        opacity: 0;
+    } to {
+        opacity: 1;
+    }
+}
