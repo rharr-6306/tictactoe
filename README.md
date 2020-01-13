@@ -1,8 +1,8 @@
 # TicTacToe
 ![](https://img.shields.io/badge/build-passing-green/?style=flat-square)
-![](https://img.shields.io/github/repo-size/:user/:repo?style=flat-square)
-![](https://img.shields.io/github/issues/:user/:repo?style=flat-square)
-![](https://img.shields.io/github/v/release/:user/:repo?include_prereleases&style=flat-square)
+![](https://img.shields.io/github/repo-size/Le-SirH/tictactoe?style=flat-square)
+![](https://img.shields.io/github/issues/Le-SirH/tictactoe?style=flat-square)
+![](https://img.shields.io/github/v/release/Le-SirH/tictactoe?include_prereleases&style=flat-square)
 
 TicTacToe game using React.js.
 
