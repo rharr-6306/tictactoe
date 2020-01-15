@@ -20,6 +20,13 @@ $ yarn start
 
 ## Contributors
 
-| <a href="https://github.com/Le-SirH" target="_blank">**Le-SirH**</a> |
-| :---: |
-| ![Le-SirH](https://avatars3.githubusercontent.com/u/46948579?s=460&v=4) |
+<table>
+  <tr>
+    <th><a href="https://github.com/Le-SirH" target="_blank"><b>Le-SirH</b></a></th>
+    <th><a href="https://github.com/RHarr6306" target"_blank"><b>RHarr6306</b></a></th>
+  </tr>
+  <tr>
+    <td><img width="200" src="https://avatars3.githubusercontent.com/u/46948579?s=460&v=4"></td>
+    <td><img width="200" src="https://avatars2.githubusercontent.com/u/55287042?s=460&v=4"></td>
+  </tr>
+</table>
