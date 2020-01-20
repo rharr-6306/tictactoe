@@ -50,6 +50,13 @@ export default class Board extends Component {
         (this.state.moveCount === 8) ? this.endGame() : this.checkWinner();
 
     }
+    
+    clearBoard() {
+        this.setState({
+            moveCount: 0, 
+            board: [...Array(9).keys()]
+        });
+    }
 
     render() {
         return [
