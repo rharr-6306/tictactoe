@@ -65,7 +65,7 @@ export default class Board extends Component {
                     <h1 className="square" onClick={ () => this.onMove(pos) }>
                         { (typeof pos === 'string') ? pos : '+' }
                     </h1>
-                ) }
+                )}
             </div>,
             <h1 className="fade-in">{ (this.state.winner) ? this.state.winner : '' }</h1>
         ];
